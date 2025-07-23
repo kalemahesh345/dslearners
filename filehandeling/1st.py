@@ -38,6 +38,6 @@ with open("data.csv", "r", newline="") as f:
 if "name" in data:
     print("This word is in the file")
 else:
-  
+    print("No")
 
   
